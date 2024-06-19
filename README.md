@@ -9,7 +9,7 @@
 6) Output Formats: Printing Statements
 7) Programs
 
-# Python Basics 2
+## Python Basics 2
 1) For Loop
 2) Programs on: String Patterns, Programs
 3) While Loop
@@ -17,4 +17,9 @@
 5) Nested Loops
 6) Programs
 
-# Python Basics 3
+## Python Basics 3
+
+1) Lists
+2) List Comprehension
+3) Programs on Matrix Calculations
+4) Tuples
